@@ -1,7 +1,7 @@
 Exchange Wildcard Address Rewriter
 ==================================
 
-NOTE: This is a work-in-progress. At this point it isn't usable!
+NOTE: This is a work-in-progress. At this moment it isn't usable!
 
 Adds wildcard support to your Exchange 2007 server. This hook gives you the option to define e-mailaddresses with wildcards and rewrite them to another e-mailaddress.
 
