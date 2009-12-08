@@ -1,0 +1,3 @@
+<config>
+  <rewriteAddress address="test*@domain1.com" recipient="test@domain1.com" />
+</config>
